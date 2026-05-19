@@ -1,5 +1,5 @@
 # 🚀 DevOps Microservices Project
-**NIE – BCS657D | Anjana Suresh Kumar & Bharti S | 6th Sem CSE-A**
+**NIE – BCS657D | Ushashree N S & Supriya H B | 6th Sem CSE-D**
 
 ---
 
@@ -126,3 +126,5 @@ kubectl delete -f k8s/
 # Minikube dashboard
 minikube dashboard
 ```
+## ✅ CI/CD Trigger Test
+GitHub Actions workflow updated successfully.
