@@ -1,5 +1,5 @@
 # 🚀 DevOps Microservices Project
-**NIE – BCS657D | Ushashree N S & Supriya H B | 6th Sem CSE-D**
+**NIE – BCS657D | Supriya H B & Ushashree N S | 6th Sem CSE-D**
 
 ---
 
